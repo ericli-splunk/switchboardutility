@@ -1,0 +1,10 @@
+CONTRIBUTING.md
+README.md
+__init__.py
+pyproject.toml
+readme.html
+requirements.txt
+switchboard.json
+switchboard.svg
+switchboard_connector.py
+switchboard_dark.svg
